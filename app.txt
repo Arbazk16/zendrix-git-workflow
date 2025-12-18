@@ -1,7 +1,5 @@
 Production base code
-<<<<<<< HEAD
 Login feature implemented
-=======
 Payment feature implemented
->>>>>>> feature/payment
+feature/payment
 Bug fix before release
